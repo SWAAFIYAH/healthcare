@@ -26,9 +26,9 @@ A modern React template for web applications and games, featuring React 18, Vite
 - Only modify `vite.config.js` if absolutely necessary
 
 ## Available Scripts
-- `pnpm install` - Install dependencies
-- `pnpm run dev` - Start development server
-- `pnpm run lint` - Lint source files
+- `npm install` - Install dependencies
+- `npm run dev` - Start development server
+- `npm run lint` - Lint source files
 
 ## Tech Stack
 
